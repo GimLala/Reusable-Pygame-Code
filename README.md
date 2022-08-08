@@ -1,2 +1,2 @@
 # Reusable-Pygame-Code
-Reusable code in pygame, to make games faster
+This repository holds classes, functions, and files, as a template from which games can made in pygame.
